@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **C, C++, Python & Web Development.**
 
-- ⚡ Fun fact **I am single.**
+- ⚡ Fun fact **I am a professional gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
