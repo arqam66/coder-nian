@@ -32,6 +32,8 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 
 ![Nian's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
 
+![Nian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nian&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
 
 [![@nian's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
