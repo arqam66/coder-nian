@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Nian</h1>
 <h3 align="center">A passionate computer science learner.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-nian" alt="coder-nian" /></a> </p>
-
-
 - 🔭 I’m currently working on **Website.**
 
 - 🌱 I’m currently learning **Machine Learning & Cyber Security.**
@@ -22,7 +19,7 @@
 
 ![Nian's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&card_width=1080)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
 
 [![@nian's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
 
