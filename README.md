@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
-# Hi there, I'm Nian! 👋
+# Hey there, I'm Nian! 👋
 
 Welcome to my GitHub profile! I'm a passionate and dedicated computer science student with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
 
