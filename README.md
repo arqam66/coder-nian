@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
-# Hey there, I'm Nian! 👋
+# Hey there, I'm Nomaan Ahmad! 👋
 
 Welcome to my GitHub profile! I'm a passionate and dedicated computer science student with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
 
@@ -28,14 +28,14 @@ Feel free to explore my repositories and don't hesitate to reach out. Connect wi
 
 Keep coding, stay curious, and never stop learning! 🚀✨
 
-![Nian's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
+![Nomaan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
 
-![Nian's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
+![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
 
-![Nian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nian&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+![Nomaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nian&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
-![Nian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
+![Nomaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
 
-[![@nian's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
+[![Nomaan's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=coder-nian&label=Profile%20views&color=0e75b6&style=flat" alt="coder-nian" /></p>
