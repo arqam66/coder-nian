@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
-# Hey there, I'm Nomaan Ahmad! 👋
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Nomaan+Ahmad!+%F0%9F%91%8B)
 
 Welcome to my GitHub profile! I'm a passionate and dedicated computer science student with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
 
