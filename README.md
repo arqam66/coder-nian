@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated computer science st
 
 If you share any of these passions or have a project in mind where we can collaborate, I'd love to connect and explore the endless possibilities together. Let's create innovative solutions, make a positive impact, and shape the future of technology!
 
-Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/codernian/). Let's embark on this exciting journey of knowledge, collaboration, and growth!
+Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/codernoah/). Let's embark on this exciting journey of knowledge, collaboration, and growth!
 
 Keep coding, stay curious, and never stop learning! 🚀✨
 
