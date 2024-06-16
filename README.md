@@ -1,6 +1,6 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Noah!+%F0%9F%91%8B)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Nomaan+Ahmad!+%F0%9F%91%8B)
 
 Welcome to my GitHub profile! I'm a passionate and dedicated computer science student with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
 
